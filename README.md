@@ -20,6 +20,7 @@
 - **Deployed App:** [https://SamanthaMakowski.github.io/In-Other-Words/](https://SamanthaMakowski.github.io/In-Other-Words/)
 - **GitHub Repo:** [git@github.com:SamanthaMakowski/In-Other-Words.git](git@github.com:SamanthaMakowski/In-Other-Words.git)
 
+
 ## Future Development
 
 - Release a downloadable version for iOS
