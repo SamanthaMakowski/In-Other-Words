@@ -2,7 +2,7 @@ import express from 'express'
 import dotenv from 'dotenv'
 import cors from 'cors'
 import quoteRoutes from './routes/quoteRoutes.js'
-import { sequelize } from './models/index.js'
+import { sequelize } from './models/index.js' 
 
 dotenv.config()
 

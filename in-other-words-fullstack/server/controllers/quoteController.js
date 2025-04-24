@@ -1,4 +1,6 @@
-const { Quote } = require('../models');
+import db from '../models/index.js';
+const { Quote } = db;
+
 
 const getAllQuotes = async (req, res) => {
   try {
@@ -19,4 +21,4 @@ const createQuote = async (req, res) => {
   }
 };
 
-module.exports = { getAllQuotes, createQuote };
+export { getAllQuotes, createQuote };
